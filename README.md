@@ -1,7 +1,7 @@
-# Different Language
-[![ci](https://github.com/ttiimmothy/different-languages/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/different-languages/actions/workflows/ci.yml)
+# Different Languages Template
+[![ci](https://github.com/ttiimmothy/different-languages-template/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/different-languages-template/actions/workflows/ci.yml)
 
-- This repository does something.
+- This repository shows different `programming languages` template.
 
 ## Language
 
