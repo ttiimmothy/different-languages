@@ -15,7 +15,7 @@
 - `Rust`
 - `Ruby`
 - `Swift`
-- `Shell Script (bash)`
+- `Shell Script` (bash)
 - `Makefile`
 - `Objective C` (with `.h` and `.m` file extension)
 - `HTML`
@@ -25,16 +25,18 @@
 - `TypeScript`
 - `Java`
 - `Dockerfile`
-- `Move` (`Move.toml`)
+- `Move`
 - `Vue`
 - `Jupyter Notebook`
-- `Assembly` (with `.asm` file extension)
+- `Assembly`
 - `Objective C++` (with `.mm` file extension)
-- `Nix` (`nix-config.yml`)
+- `Nix`
 - `Terraform` (with `.hcl` file extension)
-- `Packer` (`template.json`)
+- `Packer` (`template.json`, from `HashiCorp`)
 - `HashiCorp Configuration Language` (`main.hcl`)
 - `Solidity`
+- `TOML` (Tom's Obvious, Minimal Language)
+- `YAML`
 
 ## License
 
