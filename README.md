@@ -26,6 +26,8 @@
 - `Java`
 - `Dockerfile`
 - `Move` (`Move.toml`)
+- `Vue`
+- `Jupyter Notebook`
 
 ## License
 
