@@ -1,7 +1,3 @@
-# This is a TOML configuration file template
-
-# Comments start with a '#' symbol
-
 # Key-value pairs
 title = "My Application"
 version = "1.0"

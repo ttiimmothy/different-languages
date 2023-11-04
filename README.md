@@ -31,6 +31,10 @@
 - `Assembly` (with `.asm` file extension)
 - `Objective C++` (with `.mm` file extension)
 - `Nix` (`nix-config.yml`)
+- `Terraform` (with `.hcl` file extension)
+- `Packer` (`template.json`)
+- `HashiCorp Configuration Language` (`main.hcl`)
+- `Solidity`
 
 ## License
 

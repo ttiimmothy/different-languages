@@ -1,5 +1,3 @@
-# Example Nix configuration in TOML format
-
 # Define the package name and version
 name = "example-package"
 version = "1.0.0"

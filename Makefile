@@ -1,5 +1,3 @@
-# Makefile
-
 # Compiler and compiler options
 CC := gcc
 CFLAGS := -Wall -Wextra
