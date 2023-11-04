@@ -18,6 +18,14 @@
 - `Shell Script (bash)`
 - `Makefile`
 - `Objective C` (with `.h` and `.m` file extension)
+- `HTML`
+- `CSS`
+- `SCSS`
+- `JavaScript`
+- `TypeScript`
+- `Java`
+- `Dockerfile`
+- `Move` (`Move.toml`)
 
 ## License
 
