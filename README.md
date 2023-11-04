@@ -15,7 +15,9 @@
 - `Rust`
 - `Ruby`
 - `Swift`
-- `Bash`
+- `Shell Script (bash)`
+- `Makefile`
+- `Objective C` (with `.h` and `.m` file extension)
 
 ## License
 
