@@ -28,6 +28,9 @@
 - `Move` (`Move.toml`)
 - `Vue`
 - `Jupyter Notebook`
+- `Assembly` (with `.asm` file extension)
+- `Objective C++` (with `.mm` file extension)
+- `Nix` (`nix-config.yml`)
 
 ## License
 
