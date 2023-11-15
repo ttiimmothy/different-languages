@@ -11,10 +11,6 @@ on:
 jobs:
   build-and-show-files:
     runs-on: ubuntu-latest
-    permissions:
-      actions: write
-      contents: read
-      security-events: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
